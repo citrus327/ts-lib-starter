@@ -1,5 +1,9 @@
 # ts-lib-starter
 
+![Download](https://img.shields.io/npm/dw/@citrus327/array-partition)
+![Version](https://img.shields.io/npm/v/@citrus327/array-partition)
+
+
 ## Basic Usage
 
 1. Add changesets
